@@ -7,16 +7,16 @@
 	margin: 0px 5px;
 }
 
-.bg-red{
+.red{
 	background-color: red;
 }
-.bg-yellow{
+.yellow{
 	background-color: yellow;
 }
-.bg-green{
+.green{
 	background-color: green;
 }
-.bg-grey{
+.grey{
 	background-color: lightgrey;
 }
 .container{
